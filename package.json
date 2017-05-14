@@ -1,0 +1,22 @@
+{
+  "name": "postmessage-polyfill",
+  "version": "1.0.0",
+  "description": "window postmessage plugin =========================",
+  "main": "postmessage.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/presenterx/postmessage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/presenterx/postmessage/issues"
+  },
+  "homepage": "https://github.com/presenterx/postmessage#readme"
+}
